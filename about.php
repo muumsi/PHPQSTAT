@@ -50,13 +50,13 @@ echo "<body><nav class=\"navbar navbar-default navbar-fixed-top\">
 
 echo "<br><br><br><br><br><div align=\"center\"><table class=\"table table-bordered\">";
 echo "<tr><td align=\"center\">";
-echo "<b>PHPQstat</b> is a web interface that allows to connect to the useful commands of the Grid Engine (GE) and Slurm workload managers. With this interface, you can monitor your job status and your queues health at real time.<br><br>";
-echo "<b>AUTHOR: </b> Written by Miran Ulbin 2018. (Based on PHPQstat by Jordi Blasco Pallarès (<a href=\"http://www.hpcnow.com\" target=\"hpcnow\">HPCNow!</a>)) <br><br>";
+echo "<b>PHPQstat</b> is a web interface that allows to connect to the useful commands of the Slurm workload managers. With this interface, you can monitor your job status and your queues health at real time.<br><br>";
+echo "<b>AUTHOR: </b> Written by Miran Ulbin 2018-2021. (Based on PHPQstat by Jordi Blasco Pallarès (<a href=\"http://www.hpcnow.com\" target=\"hpcnow\">HPCNow!</a>)) <br><br>";
 
 echo "<b>REPORTING BUGS</b> Report bugs to <a href=\"mailto:miran.ulbin@um.si\">miran.ulbin@um.si</a><br><br>";
 echo "<b>LICENSE</b> This is free software: you are free to change and redistribute it. GNU General Public License version 3.0 (<a href=\"http://gnu.org/licenses/gpl.html\" target=\"gpl\">GPLv3</a>).<br><br>";
-echo "<b>Version : 0.5.0MU (November 2019)</b><br><br>";
-//echo "<a href=\"https://github.com/HPCNow/PHPQstat\" target=\"GH\">https://github.com/HPCNow/PHPQstat</a><br>";
+echo "<b>Version : 1.0.0MU (June 2021)</b><br><br>";
+echo "<a href=\"https://github.com/muumsi/PHPQstat\" target=\"GH\">https://github.com/muumsi/PHPQstat</a><br>";
 echo "</td></tr></table></div><br>";
  
 include("bottom.php");
